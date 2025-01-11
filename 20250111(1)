@@ -1,0 +1,29 @@
+# name = "test"
+# if name == "test":
+#     print("이름이 맞습니다.")
+# else:
+#     print("이름이 다릅니다.")
+
+# pocket = 1000
+# if pocket == 1000:
+#     print("복권 구매")
+# elif pocket == 500:
+#     print("껌 구매")
+# else:
+#     print("집이나 가자")
+
+# a = "사과"
+# b = "바나나"
+# c =  "치즈"
+# if a == "사과" or b == "바나나":
+#     print("사과 이거나 바나나 입니다.")
+# if a == "사과" and b == "바나나":
+#     print("사과 이고 바나나 입니다.")
+# if not a == "사과":
+#     print("사과가 어니어야 출력 됩니다.")
+
+a = [1, 2, 3, 4, 5, 6, 7, 8,]
+if 1 in a:
+    print("1 is in a")
+elif 10 in a:
+    print("10 is in a")
